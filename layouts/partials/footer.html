@@ -1,0 +1,17 @@
+<footer>
+  <hr />
+  <a href="https://gnulinuxindia.sh">
+    <img
+      class="gli"
+      src="https://gnulinuxindia.sh/join_gli.gif"
+      alt="Join Gnu Linux India"
+      width="88"
+      height="31"
+    />
+  </a>
+  {{ with .GitInfo }}
+  <p>Commit: {{ .Hash }}</p>
+{{ end }}
+  Harshith reddy {{ now.Format "2006" }}
+  <hr />
+</footer>

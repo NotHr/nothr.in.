@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harshith Reddy / nothr</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Harshith Reddy / nothr</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now - Harshith reddy / nothr</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>This page gets updated everytime I make a edit&#xA;I am currently tinkering with few languages and reading man pages instead of browsing internet.</description>
+    </item>
+    <item>
+      <title>Second Blog Post</title>
+      <link>http://localhost:1313/blogs/post2/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/post2/</guid>
+      <description>This is the content of the second blog post.</description>
+    </item>
+    <item>
+      <title>First Blog Post</title>
+      <link>http://localhost:1313/blogs/post1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/post1/</guid>
+      <description>Go and Htmx are a great things!! They help me in every thing and its the best way to desigin the web apps so i have been seeing the oppertunities and all so i have to look for all the possible options and is viable to this date and i have a gut feeling that this might be the chance that to increare the chances of acceptencve we have to maka a</description>
+    </item>
+  </channel>
+</rss>
