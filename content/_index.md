@@ -4,10 +4,10 @@ date: 2024-01-01
 draft: false
 ---
 
-![pfp](https://nothr.in/static/pfp1.webp)
+<!-- ![pfp](https://nothr.in/static/pfp1.webp) -->
 
 
-Hello, I am Harshith, a sophomore from GITAM Hyderabad, a Linux and FOSS enthusiast.
+Hello, I am Harshith, a Junior from GITAM Hyderabad, a Linux and FOSS enthusiast.
 
 I daily drive Arch Linux (I use Arch btw). I love to tinker with my system.
 
