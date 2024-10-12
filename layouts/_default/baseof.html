@@ -1,22 +1,23 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="title" content="Harshith reddy / nothr" />
-    <meta name="description" content="A man with a binary answer" />
-    <meta property="og:title" content="Harshith reddy / nothr" />
-    <meta property="og:description" content="A man with a binary answer" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://nothr.in/" />
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="title" content="Harshith reddy / nothr" />
+        <meta name="description" content="A man with a binary answer" />
+        <meta property="og:title" content="Harshith reddy / nothr" />
+        <meta property="og:description" content="A man with a binary answer" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://nothr.in/" />
 
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ .Title }}</title>
-    <link rel="stylesheet" href="/css/style.css" />
-  </head>
-  <body>
-    {{ partial "nav.html" . }}
-    <main>{{ block "main" . }}{{ end }}</main>
-    {{ partial "footer.html" . }}
-  </body>
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        {{ if .Param "math" }} {{ partialCached "math.html" . }} {{ end }}
+        <title>{{ .Title }}</title>
+        <link rel="stylesheet" href="/css/style.css" />
+    </head>
+    <body>
+        {{ partial "nav.html" . }}
+        <main>{{ block "main" . }}{{ end }}</main>
+        {{ partial "footer.html" . }}
+    </body>
 </html>

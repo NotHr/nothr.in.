@@ -1,10 +1,7 @@
 ---
-title: "First Blog Post"
-date: 2024-01-01
+title: "Switching back to Open Source"
+date: 2023-01-01
 draft: false
+showTitle: true
 ---
-
-Go and Htmx are a great things!! They help me in every thing and its the best way to desigin the web apps
-
-
-so i have been seeing the oppertunities and all so i have to look for all the possible options and is viable to this date and i have a gut feeling that this might be the chance that to increare the chances of acceptencve we have to maka a 
+After giving it a lot of thought I have made it clear that, If I need to learn someting I have to make changes to my daily routine. So I had to give up games because but due to some reason I can’t give them up, so I have changed my OS to Arch Linux. It might sound cool but Its hard to enable and configure services.

@@ -6,28 +6,35 @@
     <description>Recent content on Harshith Reddy / nothr</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2024 09:33:36 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links - Harshith reddy / nothr</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/nothr&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/mhrsth&#34;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://codeberg.org/nothr&#34;&gt;CodeBerg&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;self-hosted-services&#34;&gt;Self Hosted Services&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.nothr.in/nothr&#34;&gt;Gitea&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>One Year of Using Linux</title>
+      <link>http://localhost:1313/blogs/post2/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/post2/</guid>
+      <description>&lt;p&gt;It’s been a year that I have been daily driving Linux as my main machine. So far, the journey has been great. I have come to know a lot of things and have been using many FOSS tools.&lt;/p&gt;&#xA;&lt;p&gt;I have tried a few main distros like Debian, Ubuntu, Fedora, and Arch. I liked Fedora and Arch because they are fast and good. Finally, I have chosen Arch over Fedora because I like the package manager and the rolling release.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Now - Harshith reddy / nothr</title>
       <link>http://localhost:1313/now/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/now/</guid>
-      <description>This page gets updated everytime I make a edit&#xA;I am currently tinkering with few languages and reading man pages instead of browsing internet.</description>
+      <description>&lt;p&gt;&lt;code&gt;This page gets updated everytime I make a edit.  Last updated Aug 25,2024&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Life has been pretty harsh lately. I am trying to learn new things and trying to sustain in this world coping up with the terms set by the world and working wit it and now trying to make some&lt;/p&gt;&#xA;&lt;p&gt;I am currently tinkering with few languages and reading man pages instead of browsing internet.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Second Blog Post</title>
-      <link>http://localhost:1313/blogs/post2/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/post2/</guid>
-      <description>This is the content of the second blog post.</description>
-    </item>
-    <item>
-      <title>First Blog Post</title>
+      <title>Switching back to Open Source</title>
       <link>http://localhost:1313/blogs/post1/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/post1/</guid>
-      <description>Go and Htmx are a great things!! They help me in every thing and its the best way to desigin the web apps&#xA;so i have been seeing the oppertunities and all so i have to look for all the possible options and is viable to this date and i have a gut feeling that this might be the chance that to increare the chances of acceptencve we have to maka a</description>
+      <description>&lt;p&gt;After giving it a lot of thought I have made it clear that, If I need to learn someting I have to make changes to my daily routine. So I had to give up games because but due to some reason I can’t give them up, so I have changed my OS to Arch Linux. It might sound cool but Its hard to enable and configure services.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

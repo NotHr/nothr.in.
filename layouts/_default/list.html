@@ -2,10 +2,11 @@
 <h1>{{ .Title }}</h1>
 <p>{{ .Description }}</p>
 <ul>
-  {{ range .Pages }}
+    {{ range .Pages }}
     <li>
-      [<code>{{ .Date.Format "Jan 02, 2006" }}</code>] - <a href="{{ .Permalink }}">{{ .Title }}</a>
+        [<code>{{ .Date.Format "Jan 02, 2006" }}</code>] <em>-</em>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
-  {{ end }}
+    {{ end }}
 </ul>
 {{ end }}

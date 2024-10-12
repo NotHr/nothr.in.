@@ -3,3 +3,15 @@ languageCode = 'en-us'
 title = 'Harshith Reddy / nothr'
 disableKinds = ["taxonomy"]
 enableGitInfo = true
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+[params]
+  math = true

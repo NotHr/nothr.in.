@@ -1,54 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 
 a {
     text-decoration: none;
     color: orange;
-  }
-  .title {
+}
+.title {
     text-decoration: none;
     color: #fff;
-  }
-  body {
-    font-family: 'Monaspace Neon', monospace;
+}
+body {
+    font-family: "Roboto Mono", monospace;
     max-width: 920px;
     display: flex;
     flex-direction: column;
     color: #fff;
     height: 96vh;
-    background-color: #1f222a;
+    background-color: black;
     margin-left: auto;
     margin-right: auto;
     padding: 1rem;
     text-align: left;
-    line-height: 24px;
-  }
-  main {
+    line-height: 23px;
+}
+main {
     margin-bottom: 1rem;
     padding: 1rem;
-  }
-  img {
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 100px;
-  }
-  nav {
+}
+
+nav {
     display: flex;
     flex-direction: column;
     width: 100%;
     justify-content: center;
     text-align: center;
     align-items: center;
-  }
-  .abstract {
+}
+.abstract {
     text-align: center;
-  }
-  main {
+}
+main {
     display: flex;
     flex-direction: column;
-  }
-  main h1 {
+}
+main h1 {
     text-align: center;
-  }
-  nav ul {
+}
+nav ul {
     display: flex;
     width: 350px;
     padding: 0%;
@@ -56,18 +53,18 @@ a {
     margin-right: 50%;
     align-items: center;
     justify-content: space-between;
-  }
-  nav ul li {
+}
+nav ul li {
     list-style: none;
-  }
-  nav ul li a {
+}
+nav ul li a {
     text-decoration: none;
     color: lightseagreen;
-  }
-  hr {
+}
+hr {
     opacity: 0;
-  }
-  footer {
+}
+footer {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -76,8 +73,8 @@ a {
     margin-left: auto;
     margin-bottom: 5px;
     margin-right: auto;
-  }
-  img[alt='pfp'] {
+}
+img[alt="pfp"] {
     max-width: 300px;
     border-radius: 1000px;
     display: flex;
@@ -85,9 +82,7 @@ a {
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-  }
-  figcaption {
+}
+figcaption {
     opacity: 0;
-  }
-  
-  
+}
