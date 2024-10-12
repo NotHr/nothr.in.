@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How NPM Fucked my Server</title>
+      <link>http://localhost:1313/blogs/how-npm-fucked-my-server/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/how-npm-fucked-my-server/</guid>
+      <description>&lt;p&gt;I own a small &lt;strong&gt;1vCPU&lt;/strong&gt; and &lt;strong&gt;1GB&lt;/strong&gt; RAM Digital Ocean Droplet. Which costs  me aroud  500rs per month.&lt;/p&gt;&#xA;&lt;p&gt;So, Last week I was trying to build a Docs website with docusoirs  in my vps so i decided to install node_modules for it I don&amp;rsquo;t know&#xA;what happend&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>One Year of Using Linux</title>
       <link>http://localhost:1313/blogs/post2/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>

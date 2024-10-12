@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Harshith Reddy / nothr</title>
+    <title>Harshith reddy / nothr on Harshith Reddy / nothr</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Harshith Reddy / nothr</description>
+    <description>Recent content in Harshith reddy / nothr on Harshith Reddy / nothr</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 13:26:42 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links - Harshith reddy / nothr</title>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/links/</guid>
       <description>&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/nothr&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/mhrsth&#34;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://codeberg.org/nothr&#34;&gt;CodeBerg&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;self-hosted-services&#34;&gt;Self Hosted Services&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.nothr.in/nothr&#34;&gt;Gitea&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>How NPM Fucked my Server</title>
+      <link>http://localhost:1313/blogs/how-npm-fucked-my-server/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/how-npm-fucked-my-server/</guid>
+      <description>&lt;p&gt;I own a small &lt;strong&gt;1vCPU&lt;/strong&gt; and &lt;strong&gt;1GB&lt;/strong&gt; RAM Digital Ocean Droplet. Which costs  me aroud  500rs per month.&lt;/p&gt;&#xA;&lt;p&gt;So, Last week I was trying to build a Docs website with docusoirs  in my vps so i decided to install node_modules for it I don&amp;rsquo;t know&#xA;what happend&lt;/p&gt;</description>
     </item>
     <item>
       <title>One Year of Using Linux</title>
