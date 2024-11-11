@@ -3,10 +3,9 @@
 <p>{{ .Description }}</p>
 <ul>
     {{ range .Pages }}
-    <li>
-        [<code>{{ .Date.Format "Jan 02, 2006" }}</code>] <em>-</em>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+   
+    {{ .Date.Format "Jan 02, 2006" }}  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <hr>
     {{ end }}
 </ul>
 {{ end }}

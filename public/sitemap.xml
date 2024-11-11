@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://nothr.in/blogs/how-npm-broke-my-server/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nothr.in/links/</loc>
     <lastmod>2024-10-12T13:26:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/how-npm-fucked-my-server/</loc>
+    <loc>https://nothr.in/tools/</loc>
+    <lastmod>2024-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nothr.in/blogs/post2/</loc>
     <lastmod>2024-10-12T13:26:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/post2/</loc>
+    <loc>https://nothr.in/now/</loc>
     <lastmod>2024-10-12T13:26:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/now/</loc>
+    <loc>https://nothr.in/</loc>
+    <lastmod>2024-10-12T14:31:53+05:30</lastmod>
+  </url><url>
+    <loc>https://nothr.in/blogs/post1/</loc>
     <lastmod>2024-10-12T13:26:42+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-12T13:26:42+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/post1/</loc>
-    <lastmod>2024-10-12T13:26:42+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>https://nothr.in/blogs/</loc>
     <lastmod>2024-06-18T09:33:36+05:30</lastmod>
   </url>
 </urlset>

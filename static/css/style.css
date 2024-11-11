@@ -1,26 +1,31 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Rubik&display=swap");
 a {
     text-decoration: none;
     color: orange;
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
 .title {
     text-decoration: none;
     color: #fff;
 }
 body {
-    font-family: "Roboto Mono", monospace;
+    font-family: "Rubik", sans-serif;
     max-width: 920px;
     display: flex;
     flex-direction: column;
+    background-color: black;
     color: #fff;
     height: 96vh;
-    background-color: black;
+    font-size: 20px;
     margin-left: auto;
     margin-right: auto;
     padding: 1rem;
     text-align: left;
-    line-height: 23px;
+    line-height: 1.6;
 }
 main {
     margin-bottom: 1rem;
@@ -68,12 +73,17 @@ footer {
     width: 100%;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     margin-top: auto;
     margin-left: auto;
     margin-bottom: 5px;
     margin-right: auto;
 }
+footer p {
+    text-align: center;
+}
+
 img[alt="pfp"] {
     max-width: 300px;
     border-radius: 1000px;
